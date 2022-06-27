@@ -1,0 +1,16 @@
+/* The animation code */
+
+@keyframes colorChange {
+    0% {
+        color: #BFBFBF;
+    }
+    25% {
+        color: #8C8C8C;
+    }
+    50% {
+        color: #595959;
+    }
+    100% {
+        color: #0D0D0D;
+    }
+}
